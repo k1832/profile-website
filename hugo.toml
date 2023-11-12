@@ -1,15 +1,15 @@
+baseURL = "https://www.k1832.com/"
 title = "k1832"
 author = "Keita Morisaki"
 copyright = "Copyright © 2023, Keita Morisaki; all rights reserved."
 theme = 'paper'
-avatar = 'nanxiaobei@gmail.com'
 
 [menu]
 
   [[menu.main]]
     identifier = "about"
     name = "About"
-    url = "/about/"
+    url = "/about"
     weight = 10
 
 [params]
