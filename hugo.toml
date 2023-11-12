@@ -1,0 +1,32 @@
+title = "k1832"
+author = "Keita Morisaki"
+copyright = "Copyright © 2023, Keita Morisaki; all rights reserved."
+theme = 'paper'
+avatar = 'nanxiaobei@gmail.com'
+
+[menu]
+
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    url = "/about/"
+    weight = 10
+
+[params]
+  # color style
+  color = 'linen'                           # linen, wheat, gray, light
+
+  # header social icons
+  twitter = 'k1832_'                        # twitter.com/YOUR_TWITTER_ID
+  github = 'k1832'                          # github.com/YOUR_GITHUB_ID
+  linkedin = 'k1832'                        # linkedin.com/in/YOUR_LINKEDIN_ID
+
+  # home page profile
+  name = 'k1832'
+
+  # misc
+  disableHLJS = true                        # disable highlight.js
+  disablePostNavigation = true              # disable post navigation
+  monoDarkIcon = true                       # show monochrome dark mode icon
+  comments = false                          # disable comments for a specific page
+  math = true
