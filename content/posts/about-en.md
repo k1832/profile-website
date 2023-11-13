@@ -4,7 +4,8 @@ date = 2023-11-12T14:15:57+08:00
 +++
 (日本語は[こちら]({{< ref "/about" >}}))
 
-**Keita (k1832)** was born and raised in Oita, Japan and is living in Taipei City, Taiwan.
+**Keita (k1832)** was born and raised in Oita, Japan and is living in Taipei City, Taiwan.  
+I'm currently working at Google as a Software Engineer.
 
 He/Him, 🌈ALLY🌈
 
