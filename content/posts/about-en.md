@@ -22,14 +22,15 @@ I'm also working on my own [C compiler](https://github.com/k1832/jcc).
 Software Enginer  
 Mar. 2022 - Current  
 New Taipei, Taiwan  
-  - Develop Linux drivers for Google’s next-generation mobile SoC
+  - Develop Linux drivers for [Google’s next-generation mobile SoC](https://store.google.com/intl/en/ideas/articles/google-tensor-pixel-smartphone/)
 
 ## Education
 - [Nara Institute of Science and Technology](http://www.naist.jp/)  
 Master of Engineering in Information Science  
-Apr. 2020 - Current  
+Apr. 2020 - Mar. 2024  
 Nara, Japan (remote from Mar. 2022)  
   - Member of [Software Engineering Lab.](https://naist-se.github.io/en/)
+  - Master's thesis title: Test Case Generation for Python Libraries Using Execution Traces of Client Projects' Test-Suites
 - [Oita University](https://www.oita-u.ac.jp/)  
 Bachelor of Engineering in Computer Science  
 Apr. 2017 - Mar. 2020  

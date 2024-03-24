@@ -23,15 +23,15 @@ He/Him, 🌈ALLY🌈
 ソフトウェアエンジニア  
 2022年3月 - 現在  
 台湾 新北市  
-  - スマホ向けSoCのためのLinuxドライバ開発
+  - [スマートフォン向け次世代SoC](https://store.google.com/intl/en/ideas/articles/google-tensor-pixel-smartphone/)のためのLinuxドライバ開発
 
 ## 学歴
 - [奈良先端科学技術大学院大学](http://www.naist.jp/)  
 修士課程 情報科学領域  
-2020年4月 - 現在  
+2020年4月 - 2024年3月  
 日本 奈良県（2022年3月よりリモート）  
-  - [ソフトウェア工学研究室所属](https://naist-se.github.io/)
-  - Pythonにおけるテストケース自動生成
+  - [ソフトウェア工学研究室](https://naist-se.github.io/)所属
+  - 修士論文タイトル: Test Case Generation for Python Libraries Using Execution Traces of Client Projects' Test-Suites
 - [大分大学](https://www.oita-u.ac.jp/)  
 学士課程 知能情報システムプログラム  
 2017年4月 - 2020年3月  
