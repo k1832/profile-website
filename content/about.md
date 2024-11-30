@@ -39,6 +39,8 @@ He/Him, 🌈ALLY🌈
 日本 大分県
 
 ## リンク集
+- [LinkedIn @k1832](https://www.linkedin.com/in/k1832/)
+- [X @k1832_](https://x.com/k1832_)
+- [Keybase @k1832](https://keybase.io/k1832)
 - [競技プログラミングノート](https://k1832.notion.site/PROGRAMMING-NOTES-200d3023d7024986b1478a707a2bc937)
 - [競技プログラミング記録](https://docs.google.com/spreadsheets/d/1jNxP8s1AfC-zTiQ0d2iw7vdZQeODXDXKKpzWAsFK1lg/edit?usp=sharing)
-- Keybase: [@k1832](https://keybase.io/k1832)

@@ -41,6 +41,8 @@ Apr. 2017 - Mar. 2020
 Oita, Japan
 
 ## Link
+- [LinkedIn @k1832](https://www.linkedin.com/in/k1832/)
+- [X @k1832_](https://x.com/k1832_)
+- [Keybase @k1832](https://keybase.io/k1832)
 - [Competitive programming notes (Japanese)](https://k1832.notion.site/PROGRAMMING-NOTES-200d3023d7024986b1478a707a2bc937)
 - [Competitive programming records (Japanese)](https://docs.google.com/spreadsheets/d/1jNxP8s1AfC-zTiQ0d2iw7vdZQeODXDXKKpzWAsFK1lg/edit?usp=sharing)
-- Keybase: [@k1832](https://keybase.io/k1832)
