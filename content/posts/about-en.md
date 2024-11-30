@@ -29,8 +29,8 @@ New Taipei, Taiwan
 Master of Engineering in Information Science  
 Apr. 2020 - Mar. 2024  
 Nara, Japan (remote from Mar. 2022)  
-  - Member of [Software Engineering Lab.](https://naist-se.github.io/en/)
-  - Master's thesis title: Test Case Generation for Python Libraries Using Execution Traces of Client Projects' Test-Suites
+  - Transfered to [Software Engineering Lab.](https://naist-se.github.io/en/) in Mar. 2022, and received a Master's degree there.
+  - Master's thesis: [Test Case Generation for Python Libraries Using Execution Traces of Client Projects' Test-Suites](https://library.naist.jp/opac/en/volume/257096)
 - [Oita University](https://www.oita-u.ac.jp/)  
 Bachelor of Engineering in Computer Science  
 Apr. 2017 - Mar. 2020  

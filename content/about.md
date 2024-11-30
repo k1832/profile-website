@@ -15,8 +15,6 @@ He/Him, 🌈ALLY🌈
 競技プログラミングは主にAtCoderをやっています。
 [![k1832](https://img.shields.io/endpoint?url=https%3A%2F%2Fatcoder-badges.now.sh%2Fapi%2Fatcoder%2Fjson%2Fk1832)](https://atcoder.jp/users/k1832)
 
-最近はあまり時間を割けていませんが、自作[Cコンパイラ制作](https://github.com/k1832/jcc)もやっています。
-
 ## 職歴
 - [Google](https://about.google/)  
 ソフトウェアエンジニア  
@@ -28,9 +26,9 @@ He/Him, 🌈ALLY🌈
 - [奈良先端科学技術大学院大学](http://www.naist.jp/)  
 修士課程 情報科学領域  
 2020年4月 - 2024年3月  
-日本 奈良県（2022年3月よりリモート）  
-  - [ソフトウェア工学研究室](https://naist-se.github.io/)所属
-  - 修士論文タイトル: Test Case Generation for Python Libraries Using Execution Traces of Client Projects' Test-Suites
+日本 奈良県（2022年3月からリモート）
+  - 2022年3月に[ソフトウェア工学研究室](https://naist-se.github.io/)に異動しそこで修士取得
+  - 修士論文: [Test Case Generation for Python Libraries Using Execution Traces of Client Projects' Test-Suites](https://library.naist.jp/opac/en/volume/257096)
 - [大分大学](https://www.oita-u.ac.jp/)  
 学士課程 知能情報システムプログラム  
 2017年4月 - 2020年3月  
