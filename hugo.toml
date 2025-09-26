@@ -1,8 +1,12 @@
 baseURL = "https://www.k1832.com/"
 title = "k1832"
 author = "Keita Morisaki"
-copyright = "Copyright © 2023, Keita Morisaki; all rights reserved."
+copyright = "Copyright © 2025, Keita Morisaki; all rights reserved."
 theme = 'paper'
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
 
 [menu]
   [[menu.main]]
