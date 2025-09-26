@@ -2,7 +2,7 @@
 title = "k1832について"
 date = 2023-11-12T14:15:57+08:00
 +++
-(English version is [here]({{< ref "/posts/about-en" >}}))
+(English version is available [here]({{< ref "/posts/about-en" >}}))
 
 Keita (k1832)です。大分県生まれ、大分県育ちです。  
 今は台湾に住んでいてGoogleのソフトウェアエンジニアとして働いています。  
