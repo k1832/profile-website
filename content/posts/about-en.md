@@ -20,9 +20,9 @@ I'm also working on my own [C compiler](https://github.com/k1832/jcc).
 ## Work Experience
 - [Google](https://about.google/)  
 Software Enginer  
-Mar. 2022 - Current  
+Mar. 2022 - Sep. 2025  
 New Taipei, Taiwan  
-  - Develop Linux drivers for [Google’s next-generation mobile SoC](https://store.google.com/intl/en/ideas/articles/google-tensor-pixel-smartphone/)
+  - Developed Linux drivers and firmware for [Google’s next-generation mobile SoC](https://store.google.com/intl/en/ideas/articles/google-tensor-pixel-smartphone/)
 
 ## Education
 - [Nara Institute of Science and Technology](http://www.naist.jp/)  

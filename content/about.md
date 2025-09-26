@@ -18,9 +18,9 @@ He/Him, 🌈ALLY🌈
 ## 職歴
 - [Google](https://about.google/)  
 ソフトウェアエンジニア  
-2022年3月 - 現在  
+2022年3月 - 2025年9月  
 台湾 新北市  
-  - [スマートフォン向け次世代SoC](https://store.google.com/intl/en/ideas/articles/google-tensor-pixel-smartphone/)のためのLinuxドライバ開発
+  - [スマートフォン向け次世代SoC](https://store.google.com/intl/en/ideas/articles/google-tensor-pixel-smartphone/)のためのLinuxドライバ及びファームウェア開発
 
 ## 学歴
 - [奈良先端科学技術大学院大学](http://www.naist.jp/)  
