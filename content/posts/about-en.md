@@ -22,7 +22,7 @@ I'm also working on my own [C compiler](https://github.com/k1832/jcc).
 Software Enginer  
 Mar. 2022 - Sep. 2025  
 New Taipei, Taiwan  
-  - Developed Linux drivers and firmware for [Google’s next-generation mobile SoC](https://store.google.com/intl/en/ideas/articles/google-tensor-pixel-smartphone/)
+  - Developed Linux drivers and firmware for [Google Pixel devices' SoCs](https://blog.google/products/pixel/tensor-g5-pixel-10/)
 
 ## Education
 - [Nara Institute of Science and Technology](http://www.naist.jp/)  

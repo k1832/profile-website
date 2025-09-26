@@ -20,7 +20,7 @@ He/Him, 🌈ALLY🌈
 ソフトウェアエンジニア  
 2022年3月 - 2025年9月  
 台湾 新北市  
-  - [スマートフォン向け次世代SoC](https://store.google.com/intl/en/ideas/articles/google-tensor-pixel-smartphone/)のためのLinuxドライバ及びファームウェア開発
+  - [Google Pixelデバイス向けSoC](https://blog.google/intl/ja-jp/products/devices-services/tensor-g5-pixel-10/)のためのLinuxドライバ及びファームウェア開発
 
 ## 学歴
 - [奈良先端科学技術大学院大学](http://www.naist.jp/)  
